@@ -12,10 +12,10 @@ linkedin_username:
 facebook_username: 
 
 # External API
-giscus_repo: 
-giscus_repoId: 
-giscus_category: 
-giscus_categoryId:
+data-repo: "yeobeomhwi/yeobeomhwi.github.io"
+data-repo-id: "R_kgDOMI_ptg"
+data-category: "Q&A"
+data-category-id: "DIC_kwDOMI_pts4CgEZo"
 goatcounter_code:
 google_analytics:
 
