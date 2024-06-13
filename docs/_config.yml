@@ -1,45 +1,37 @@
-title: Example.com
-description: "Introduction for you blog"
+title: yeller
+description: "Satellite - jekyll blog theme"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
-github_username: github
-twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+email: yeller0828@gmail.com
+github_username: yeobeomhwi
+twitter_username: 
+instagram_username: control.__.c
+linkedin_username: 
+facebook_username: 
 
 # External API
-giscus_repo:
-giscus_repoId:
-giscus_category:
+giscus_repo: 
+giscus_repoId: 
+giscus_category: 
 giscus_categoryId:
 goatcounter_code:
 google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
-baseurl:
-
-# # # # # # # # # # # # # # # # # # # # # # # # # #
-#                                                 #
-#   Not recommended to touch the materials below  #
-#                                                 #
-#    Any changes may contribute to malfunction    #
-#                                                 #
-# # # # # # # # # # # # # # # # # # # # # # # # # #
+baseurl: https://yeobeomhwi.github.io
 
 # Build settings
-
-# If you want to deploy Git Page, but choosing the second Installation method (described in README.md)
-# rather than fork, then replace the below line with `remote_theme: byanko55/jekyll-theme-satellite`.
-# Otherwise, DO NOT change it.
-theme: jekyll-theme-satellite
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-loading-lazy
 
 exclude:
-  - _posts
+  - docs/
 
 collections:
   pages:
