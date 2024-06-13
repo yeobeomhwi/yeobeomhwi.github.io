@@ -72,19 +72,3 @@ fun main() {
     println("출력 : $sum")
 }
 ```
-
-<script src="https://giscus.app/client.js"
-        data-repo="yeobeomhwi/yeobeomhwi.github.io"
-        data-repo-id="R_kgDOMI_ptg"
-        data-category="Q&A"
-        data-category-id="DIC_kwDOMI_pts4CgEZo"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="ko"
-        crossorigin="anonymous"
-        async>
-</script>
