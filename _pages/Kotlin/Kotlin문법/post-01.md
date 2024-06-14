@@ -1,6 +1,7 @@
 ---
 title: "Kotlin에서 입력 받기: Scanner vs readLine"
-date: "2023-12-01"
+date: "2024-06-13"
+thumbnail: "/assets/img/thumbnail/Kotlin.png"
 ---
 
 # Kotlin에서 입력 받기: Scanner vs readLine
