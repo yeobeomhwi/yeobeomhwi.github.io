@@ -2,6 +2,11 @@
 title: "[구름] Level_1 정수 변환기"
 date: "2024-06-14"
 thumbnail: "/assets/img/thumbnail/Kotlin.png"
+tags:
+    - kotlin
+    - StringBuilder
+    - Character.getNumericValue
+    - append
 ---
 
 # 정수 변환기

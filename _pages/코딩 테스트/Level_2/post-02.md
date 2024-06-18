@@ -2,6 +2,10 @@
 title: "[구름] Level_2 폭탄 구현하기(2)"
 date: "2024-06-14"
 thumbnail: "/assets/img/thumbnail/Kotlin.png"
+tags:
+    - kotlin
+    - repeat
+    - Pair
 ---
 
 # 폭탄 구현하기

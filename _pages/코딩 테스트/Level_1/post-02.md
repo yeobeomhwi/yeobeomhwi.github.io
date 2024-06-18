@@ -2,6 +2,10 @@
 title: "[프로그래머스] Level_1 달리기 경주"
 date: "2024-06-18"
 thumbnail: "/assets/img/thumbnail/Kotlin.png"
+tags:
+    - kotlin
+    - MutableMap
+    - forEachIndexed
 ---
 
 # 달리기 경주

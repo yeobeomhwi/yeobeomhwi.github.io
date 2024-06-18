@@ -2,6 +2,10 @@
 title: "[프로그래머스] Level_2 기능 개발"
 date: "2024-06-14"
 thumbnail: "/assets/img/thumbnail/Kotlin.png"
+tags:
+    - kotlin
+    - Math.ceil
+    - removeAt
 ---
 
 # [프로그래머스] Level_2 기능 개발

@@ -2,6 +2,11 @@
 title: "[구름] Level_2 이진수 정렬"
 date: "2024-06-14"
 thumbnail: "/assets/img/thumbnail/Kotlin.png"
+tags:
+    - kotlin
+    - sortedWith
+    - compareByDescending
+    - thenByDescending
 ---
 
 # 이진수 정렬
