@@ -9,7 +9,7 @@ tags:
     - thenByDescending
 ---
 
-# 이진수 정렬
+# [구름] Level_2 이진수 정렬
 
 ## 문제
 

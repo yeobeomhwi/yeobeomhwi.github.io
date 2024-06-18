@@ -8,7 +8,7 @@ tags:
     - forEachIndexed
 ---
 
-# 달리기 경주
+# [프로그래머스] Level_1 달리기 경주
 
 ## 문제 
 ### 문제 설명
