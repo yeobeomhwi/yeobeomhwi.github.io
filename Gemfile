@@ -7,3 +7,6 @@ gemspec
 group :test do
   gem "html-proofer", "~> 5.0"
 end
+
+gem 'tzinfo', '~> 2.0'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
